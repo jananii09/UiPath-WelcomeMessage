@@ -7,7 +7,7 @@ A simple **UiPath Studio project** that demonstrates how to:
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 This project greets the user based on the input name.
 
 - If the user enters **RAM**, the workflow displays:
