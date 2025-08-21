@@ -24,12 +24,6 @@ After that, a **SWITCH case** is used:
 
 ---
 
-## 🛠️ Technologies Used
-- [UiPath Studio](https://www.uipath.com/studio)  
-- VB.NET (expressions inside activities)
-
----
-
 ## Project Files
 - `Main.xaml` → Main workflow
 - `project.json` → Project configuration
