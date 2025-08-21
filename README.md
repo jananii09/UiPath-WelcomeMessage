@@ -22,6 +22,17 @@ After that, a **SWITCH case** is used:
 - Case "ARJUN" → `Hey Arjun, how are you?`
 - Default → `Welcome <Name>`
 
+## 🎯 Example Outputs
+Input = RAM
+IF → Welcome Mr. Ramachandran
+SWITCH → Hello Ram! Glad to see you again.
+Input = SITA
+IF → Welcome Sita
+SWITCH → Namaste Sita, welcome!
+Input = John
+IF → Welcome John
+SWITCH → Welcome John
+
 ---
 
 ## Project Files
