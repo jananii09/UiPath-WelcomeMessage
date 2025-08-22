@@ -53,6 +53,6 @@ This repository contains a simple **UiPath workflow** that demonstrates:
 ---
 
 ## Output Screenshot
-
-
-
+<img width="1917" height="1069" alt="Screenshot 2025-08-22 201157" src="https://github.com/user-attachments/assets/f6d6b475-98df-4370-8745-005853f2ae8e" />
+<img width="1918" height="1074" alt="Screenshot 2025-08-22 201214" src="https://github.com/user-attachments/assets/3c899327-b0d4-4a8d-bf61-fac0c57d87ca" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-22 201207" src="https://github.com/user-attachments/assets/15941308-2ebd-407f-aa42-ade4cbb7c4c5" />
